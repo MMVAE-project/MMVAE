@@ -5,3 +5,8 @@ Yimeng Gu, Ignacio Castro, Gareth Tyson
 This repository contains code and link to the dataset for SemEval'22 paper "MMVAE at SemEval-2022 Task 5: A Multi-modal Multi-task VAE on Misogynous Meme Detection". Link to the paper will be posted soon.
 
 For any questions regarding this repository or the paper, please contact Yimeng Gu (yimeng.gu@qmul.ac.uk).
+
+## Downloading the MAMI dataset
+
+## Running MMVAE
+Simply running the notebook cells in MMVAE.ipynb one by one.
