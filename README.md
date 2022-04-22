@@ -2,7 +2,19 @@
 Yimeng Gu, Ignacio Castro, Gareth Tyson
 
 ## Introduction
-This repository contains code and link to the dataset for SemEval'22 paper "MMVAE at SemEval-2022 Task 5: A Multi-modal Multi-task VAE on Misogynous Meme Detection". Link to the paper will be posted soon.
+This repository contains code and link to the dataset for SemEval'22 paper "MMVAE at SemEval-2022 Task 5: A Multi-modal Multi-task VAE on Misogynous Meme Detection". The paper is included in this repository.
+
+If you find this repository or the paper useful, please cite it with:
+
+```
+@inproceedings{task5,
+  title={MMVAE at SemEval-2022 Task 5: A Multi-modal Multi-task VAE on Misogynous Meme Detection},
+  author={Yimeng Gu and Ignacio Castro and Gareth Tyson},
+  booktitle={Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)},
+  year={2022},
+  publisher={Association for Computational Linguistics}
+}
+```
 
 For any questions regarding this repository or the paper, please contact Yimeng Gu (yimeng.gu@qmul.ac.uk).
 
