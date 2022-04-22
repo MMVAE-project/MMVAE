@@ -7,7 +7,7 @@ This repository contains code and link to the dataset for SemEval'22 paper "MMVA
 If you find this repository or the paper useful, please cite it with:
 
 ```
-@inproceedings{task5,
+@inproceedings{Gu2022MMVAE,
   title={MMVAE at SemEval-2022 Task 5: A Multi-modal Multi-task VAE on Misogynous Meme Detection},
   author={Yimeng Gu and Ignacio Castro and Gareth Tyson},
   booktitle={Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)},
