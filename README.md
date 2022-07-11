@@ -22,4 +22,4 @@ For any questions regarding this repository or the paper, please contact Yimeng 
 You may download the MAMI dataset using the link in `/data/dataset.txt`.
 
 ## Running MMVAE
-Simply running the notebook cells in `/model/MMVAE.ipynb` one by one.
+Simply run notebook cells in `/model/MMVAE.ipynb` one by one.
